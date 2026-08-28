@@ -31,8 +31,13 @@ header {
 
 .logo-container {
     display: flex;
-    align-items: center;
-    gap: 12px;
+    align-items: center; 
+}
+
+.logo-img {
+    max-height: 40px; 
+    width: auto;     
+    margin-right: 15px; 
 }
 
 .logo-icon {
